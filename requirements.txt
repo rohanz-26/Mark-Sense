@@ -1,0 +1,6 @@
+opencv-contrib-python>=4.8
+numpy
+reportlab
+fastapi
+uvicorn
+python-multipart
